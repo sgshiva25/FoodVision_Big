@@ -1,6 +1,6 @@
 # FoodVision Big 🍔🍕🍜
 
-![FoodVision Banner](https://via.placeholder.com/1200x400.png?text=FoodVision+Big)
+![FoodVision Banner]([https://via.placeholder.com/1200x400.png?text=FoodVision+Big](https://www.pinterest.com/ideas/food-banner-background/933176101123/)
 
 FoodVision Big is a deep learning project that classifies images of food into multiple categories. This project demonstrates the application of cutting-edge techniques in computer vision using PyTorch, Vision Transformers, and efficient training pipelines.
 
